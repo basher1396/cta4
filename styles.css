@@ -1,0 +1,49 @@
+h1 {
+    color:blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100px;
+    text-align: center;
+}
+label {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+input {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+button {
+    display: block;
+    margin: 0 auto;
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    text-align: center;
+}
+button:hover {
+    background-color: darkblue;
+}
+div {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+select {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
